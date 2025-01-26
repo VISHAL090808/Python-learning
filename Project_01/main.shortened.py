@@ -1,6 +1,6 @@
 '''
 -1 for snake
- 0 for water
+ 0 for water  just to see change 
  1 for gun
 
 '''
